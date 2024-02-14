@@ -14,3 +14,6 @@ Le total des médailles remportées par les top 10 pays aux Jeux Olympiques d'é
 ## Prévisions
 - Prévision en utilisant Power BI.
 - Prévision en utilisant les séries chronologiques avec un modèle ARIMA.
+
+## Résultat
+Consultez le fichier Power BI ainsi que l'image associée pour obtenir les résultats obtenus.
