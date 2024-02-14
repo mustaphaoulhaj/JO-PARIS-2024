@@ -30,8 +30,10 @@ Le total des médailles remportées par les top 10 pays aux Jeux Olympiques d'é
 
 2. **Prévision en utilisant les séries chronologiques avec un modèle ARIMA :**
 
-L'ARIMA (AutoRegressive Integrated Moving Average) est un modèle statistique largement utilisé pour modéliser et prévoir des séries chronologiques.  
-Nous avons importé les données historiques sur les médailles olympiques du site Kaggle dans Python. Ensuite, nous avons analysé ces données pour identifier les tendances, les saisons et les motifs saisonniers. En appliquant le modèle ARIMA, nous avons produit des prévisions sur le nombre de médailles que chaque pays pourrait remporter lors des Jeux Olympiques de 2024. Pour évaluer la précision de nos prévisions, nous comparons ces dernières aux données réelles en utilisant des métriques telles que l'erreur quadratique moyenne (RMSE).
+   L'ARIMA (AutoRegressive Integrated Moving Average) est un modèle statistique largement utilisé pour modéliser et prévoir des séries chronologiques.  
+   Nous avons importé les données historiques sur les médailles olympiques du site Kaggle dans Python. Ensuite, nous avons analysé ces données pour identifier les tendances, les saisons et les motifs saisonniers. En appliquant le modèle ARIMA, nous avons produit des 
+   prévisions sur le nombre de médailles que chaque pays pourrait remporter lors des Jeux Olympiques de 2024. Pour évaluer la précision de nos prévisions, nous comparons ces dernières aux données réelles en utilisant des métriques telles que l'erreur quadratique moyenne 
+   (RMSE).
 
 
 ## Résultat
