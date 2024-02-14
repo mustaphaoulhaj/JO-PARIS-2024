@@ -22,13 +22,13 @@ Le total des médailles remportées par les top 10 pays aux Jeux Olympiques d'é
 ## Prévisions
 
 1. **Prévision en utilisant Power BI :**
+   
    Nous avons utilisé Power BI pour visualiser des données et créer des prévisions basées sur des modèles statistiques. 
-
    - Nous avons utilisé les fonctionnalités de modélisation de Power BI pour créer un modèle prédictif.
    - Après avoir mis en place notre modèle, nous l'appliquons pour anticiper le nombre de médailles que chaque pays pourrait remporter lors des Jeux Olympiques de 2024.
    - Nous avons visualisé nos prévisions à l'aide de graphiques interactifs dans Power BI pour présenter nos résultats (Voir l'image).
 
-2. **Prévision en utilisant les séries chronologiques avec un modèle ARIMA :**
+3. **Prévision en utilisant les séries chronologiques avec un modèle ARIMA :**
 
    L'ARIMA (AutoRegressive Integrated Moving Average) est un modèle statistique largement utilisé pour modéliser et prévoir des séries chronologiques.  
    Nous avons importé les données historiques sur les médailles olympiques du site Kaggle dans Python. Ensuite, nous avons analysé ces données pour identifier les tendances, les saisons et les motifs saisonniers. En appliquant le modèle ARIMA, nous avons produit des 
