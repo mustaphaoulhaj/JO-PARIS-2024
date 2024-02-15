@@ -35,4 +35,4 @@ Le total des médailles remportées par les top 10 pays aux Jeux Olympiques d'é
    (RMSE).
 
 ## Résultat
-Consultez le fichier Power BI ainsi que l'image associée pour obtenir les résultats obtenus.
+Consultez le fichier Power BI ainsi que l'image pour voir les résultats obtenus.
