@@ -1,4 +1,4 @@
-# JO PARIS 2024 : Prévison de médailles pour les 10 top pays
+# JO PARIS 2024 : Prévision de médailles pour les 10 top pays
 
 ## JO 1896-2022
 
